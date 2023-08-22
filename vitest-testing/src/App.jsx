@@ -1,6 +1,4 @@
-// App.jsx
-
-import React, { useState } from "react";
+import { useState } from "react";
 
 const App = () => {
   const [heading, setHeading] = useState("Magnificent Monkeys");
